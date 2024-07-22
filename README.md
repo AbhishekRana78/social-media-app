@@ -12,7 +12,20 @@ Open terminal and folow the below process:
 
 ## 'npm install'
 
+## 'npm install react-router-dom '
+
+## 'npm install @mui/icons-material @mui/material @emotion/styled @emotion/react  @iconscout/react-unicons'
+
+
+##cd server
+## 'npm i express cors mongoose body-parser mongodb multer fs-extra     '
+
+
+
 ### `npm start`
+
+##cd server
+## node server.js
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
